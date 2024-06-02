@@ -1,0 +1,14 @@
+names:
+- -laptop-
+- -mouse-
+- -keyboard- 
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hw8-dwq2f
+  url: https://universe.roboflow.com/cbnu-ghmhl/hw8-dwq2f/dataset/2
+  version: 2
+  workspace: cbnu-ghmhl
+test: test/images
+train: train/images
+val: valid/images
